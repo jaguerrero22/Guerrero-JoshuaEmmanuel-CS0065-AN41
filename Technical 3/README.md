@@ -4,7 +4,6 @@
 
 This program demonstrates a simple Case-Based Reasoning (CBR) system using sample cases involving electronic transfers and digital evidence. It compares a predefined new case with past cases, then adapts a strategy from the most similar case.
 
-> This is an educational programming demonstration only. It does not provide legal advice or predict real case outcomes.
 
 ## How It Works
 
