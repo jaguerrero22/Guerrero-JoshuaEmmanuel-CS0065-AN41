@@ -1,3 +1,3 @@
-Guerrero-Joshua Emmanuel-CS0065-AN41
+# Guerrero-Joshua Emmanuel-CS0065-AN41
 
-Technicals
+## Technicals and Activities
