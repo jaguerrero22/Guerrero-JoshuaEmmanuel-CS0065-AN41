@@ -10,6 +10,6 @@ Install TextBlob with `python -m pip install -r requirements.txt`.
 
 Run `python sentiment_analysis.py` or `python challenge.py`.
 
-Keep the `data` folder beside `challenge.py`.
+Keep the `positive and negative words` folder beside `challenge.py`.
 
 Dataset: [Hu and Liu Opinion Lexicon](https://www.cs.uic.edu/~liub/FBS/sentiment-analysis.html).
